@@ -3,7 +3,7 @@ Hexsp is a esolang.
 
 ## Feature
 * Based on lisp.
-* Program is represented by list of hexidecimal numbers.
+* Program is represented by list of hexadecimal numbers.
 
 ## Run
 ```
