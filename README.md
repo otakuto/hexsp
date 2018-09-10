@@ -1,5 +1,5 @@
 # Hexsp
-Hexsp is a esolang.
+Hexsp is an esolang.
 
 ## Feature
 * Based on lisp.
